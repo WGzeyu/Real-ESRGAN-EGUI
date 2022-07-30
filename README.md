@@ -1,14 +1,23 @@
 # Real-ESRGAN-EGUI
-类似[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)的[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)图形界面。
-
+类似[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)的[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)图形界面。  
+Waifu2x用习惯了，所以做了个相似的GUI自用。  
+　　  
+![](png.png)
 ## 支持功能
-- 拖入文件
-- 拖入文件夹
-- 多选拖入
+- 添加文件、文件夹
+- 拖入添加、多选拖入添加
+- 参数设置
+- 保存设置
 - 一键转换
+- 中途取消(多文件)
+- 进度条(多文件)
+- 界面类似Waifu2x
 
-功能不够完善，主要是为了方便自己使用，懒得发布了（还得上传提交误报挺麻烦的）  
-如有需要可以自己下载源码运行，使用易语言编写，只调用了[精易模块](http://ec.125.la/)  
-如果基于本软件修改/发布，需要同样以GPL协议开源，不能删除我的ID  
-
+gif懒得更新了，这个是早期版本  
 ![](GIF.gif)
+
+### 关于本项目
+如果基于本软件修改/发布，需要同样以GPL协议开源，不能删除我的ID  
+本项目引用了以下模块：  
+* 精易模块 源码：[http://ec.125.la/](http://ec.125.la/)
+* zyJson 源码：[谷歌搜索](https://www.google.com/search?q=%E6%98%93%E8%AF%AD%E8%A8%80+zyjson&nfpr=1) [百度搜索](https://www.baidu.com/s?wd=%E6%98%93%E8%AF%AD%E8%A8%80%20zyjson)
