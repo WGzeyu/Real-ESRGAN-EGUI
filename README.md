@@ -1,7 +1,7 @@
 # Real-ESRGAN-EGUI
 类似[waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)的[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)图形界面。  
 Waifu2x用习惯了，所以做了个相似的GUI自用。  
-　　  
+### [点我进入下载页](https://github.com/WGzeyu/Real-ESRGAN-EGUI/releases/latest)
 ![](png.png)
 ## 支持功能
 - 添加文件、文件夹
