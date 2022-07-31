@@ -3,6 +3,7 @@
 Waifu2x用习惯了，所以做了个相似的GUI自用。  
 ### 下载：[软件界面](https://github.com/WGzeyu/Real-ESRGAN-EGUI/releases/latest) | [转换核心](https://github.com/xinntao/Real-ESRGAN/releases/latest)
 你需要同时下载界面与核心，解压核心包后，将界面程序放进去才能运行。  
+（将`Real-ESRGAN-EGUI.exe`放入到`realesrgan-ncnn-vulkan.exe`所在文件夹内即可运行）
 　　  
 ![](png.png)
 ## 支持功能
